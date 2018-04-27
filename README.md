@@ -1,2 +1,2 @@
-# wheelOfMagic8Fortune
-A Wheel of Fortune styled Magic 8 Ball
+# Basic Webpack Vue Setup
+A basic webpack setup for Vue

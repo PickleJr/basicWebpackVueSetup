@@ -1,15 +1,15 @@
 {
-  "name": "wheelofmagic8fortune",
+  "name": "basic-webpack-vue-setup",
   "version": "1.0.0",
-  "description": "A wheel of Fortune styled Magic 8 Ball",
-  "dependencies": {
-    "lodash": "^4.17.10",
-    "vue": "^2.5.16"
-  },
+  "description": "A basic webpack setup for Vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config webpack.prod.js",
     "start": "webpack-dev-server --inline --open --config webpack.dev.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "vue": "^2.5.16"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^0.1.19",
@@ -33,13 +33,10 @@
     "webpack-merge": "^4.1.2"
   },
   "keywords": [
-    "magic",
-    "8",
-    "eight",
-    "ball",
-    "wheel",
-    "of",
-    "fortune"
+    "basic",
+    "vue",
+    "webpack",
+    "setup"
   ],
   "author": "Taylor Gonzalez",
   "license": "ISC"
